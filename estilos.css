@@ -1,0 +1,44 @@
+body {
+  background-color: bisque;
+}
+
+h1 {
+  color: aqua;
+}
+
+.a1 {
+  background-color: rgb(34, 209, 151);
+  border-radius: 15px;
+}
+
+.a2 {
+  background-color: green;
+  border-radius: 15px;
+}
+
+.a3 {
+  background-color: rgb(245, 41, 184);
+  border-radius: 15px;
+}
+
+.a4 {
+  background-color: black;
+  border-radius: 15px;
+}
+
+.a5 {
+  background-color: crimson;
+  border-radius: 15px;
+}
+
+.btnsi {
+  background-color: rgb(157, 241, 29);
+  padding: 5px 8px;
+  border: 0ch;
+}
+
+.btnno {
+  background-color: red;
+  padding: 5px 5px;
+  border: 0ch;
+}
